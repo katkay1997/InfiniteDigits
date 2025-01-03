@@ -1,4 +1,4 @@
-Infinite Digits is a C++ program designed to handle and evaluate mathematical expressions involving infinite digits. This repository focuses on implementing advanced data structures and algorithms to manage large numbers and perform arithmetic operations efficiently.
+**Infinite Digits** is a C++ program designed to handle and evaluate mathematical expressions involving infinite digits. This repository focuses on implementing advanced data structures and algorithms to manage large numbers and perform arithmetic operations efficiently.
 
 **Features:**
 Supports operations on large numbers using custom data structures.
